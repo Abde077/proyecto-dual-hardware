@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilo.xsl"?>
+<inventario>
+  <dispositivo id="1">
+    <tipo>Router</tipo>
+    <marca>Cisco</marca>
+    <modelo>ISR 4331</modelo>
+    <precio>1200</precio>
+  </dispositivo>
+  <dispositivo id="2">
+    <tipo>Switch</tipo>
+    <marca>Aruba</marca>
+    <modelo>2930F</modelo>
+    <precio>850</precio>
+  </dispositivo>
+  <dispositivo id="3">
+    <tipo>Servidor</tipo>
+    <marca>Dell</marca>
+    <modelo>PowerEdge R740</modelo>
+    <precio>4500</precio>
+  </dispositivo>
+</inventario>
