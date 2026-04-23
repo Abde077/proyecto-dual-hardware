@@ -1,0 +1,30 @@
+[
+  {
+    "id": "R-01",
+    "tipo": "Router",
+    "marca": "Cisco",
+    "modelo": "ISR 4331",
+    "precio": 1200
+  },
+  {
+    "id": "SW-02",
+    "tipo": "Switch",
+    "marca": "Ubiquiti",
+    "modelo": "UniFi Pro 24",
+    "precio": 450
+  },
+  {
+    "id": "SRV-03",
+    "tipo": "Servidor",
+    "marca": "Dell",
+    "modelo": "PowerEdge R740",
+    "precio": 3500
+  },
+  {
+    "id": "AP-04",
+    "tipo": "Punto de Acceso",
+    "marca": "Aruba",
+    "modelo": "AP-515",
+    "precio": 600
+  }
+]
