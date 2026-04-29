@@ -1,0 +1,13 @@
+1. Sincronización
+Hicimos un Merge en la web de GitHub para unir las ramas y luego usé git pull origin main en mi terminal para descargar los archivos de mi compañero a mi ordenador.
+
+2. Detección de errores
+En JSON: Si falta una coma, el archivo se rompe, el fetch falla y salta el mensaje de error programado en el .catch.
+
+En XSL: Si hay un error de sintaxis, el navegador no puede aplicar el diseño y muestra un error de lectura o el texto plano sin la tabla.
+
+3. Comparativa 
+Es mejor JSON + JavaScript. Es mucho más ligero (menos bytes) y permite cargar los datos poco a poco (paginación), mientras que el XML obligaría al navegador a procesar todo el archivo de golpe, volviéndolo muy lento.
+
+4. Control de versiones 
+Git detecta un Conflicto y marca el archivo con símbolos (<<<<<<<, =======). Para arreglarlo, hay que abrir el archivo, elegir qué líneas dejar a mano, borrar las marcas de Git y hacer un nuevo commit.
